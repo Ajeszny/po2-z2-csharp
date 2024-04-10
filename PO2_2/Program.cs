@@ -38,10 +38,6 @@ namespace PO2_2
             }
             String result = control.Substring(start, size);
             Console.WriteLine(result);
-            while (true)
-            {
-
-            }
         }
     }
 }
